@@ -1,2 +1,8 @@
-# ESTRUTURA-DE-DADOS-LISTA2
-Lista 2 da matéria Estrutura de Dados
+# ESTRUTURA DE DADOS LISTA2
+
+## dados :
+
+- Nicolas de Barros
+- TIA : 32070837
+
+
